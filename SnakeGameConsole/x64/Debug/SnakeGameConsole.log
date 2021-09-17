@@ -1,0 +1,11 @@
+﻿  Apple.cpp
+  Cell.cpp
+  CollisionManager.cpp
+  Drawer.cpp
+  GameBoard.cpp
+  GameManager.cpp
+  KeyboardInputReader.cpp
+  Snake.cpp
+  SnakeGameConsole.cpp
+  Generating Code...
+  SnakeGameConsole.vcxproj -> C:\Work\sandbox\repos\SnakeGameConsole\x64\Debug\SnakeGameConsole.exe
